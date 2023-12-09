@@ -49,3 +49,7 @@ article#formulario {
     padding: 10px;
     text-align: center;
 }
+
+article#formulario > h1 {
+    margin-bottom: 10px;
+}
